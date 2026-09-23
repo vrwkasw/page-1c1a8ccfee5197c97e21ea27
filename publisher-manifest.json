@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "6475f1b67b0dbfb796c218fe",
+  "owner": "vrwkasw",
+  "repo": "page-1c1a8ccfee5197c97e21ea27",
+  "title": "YoozPanel",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1c1a8ccfee5197c97e21ea27",
+      "a": "YoozPanel",
+      "b": "机场官网线路发布页",
+      "entity": "YoozPanel",
+      "brand": "YoozPanel",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "dec65ff8736923d8c7a64614931e592559d2cda22f178fc7f0c9bd53d8e3d562",
+      "content": {
+        "primary_entity": "YoozPanel",
+        "keyword1": "YoozPanel",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，覆盖流媒体解锁、游戏专线与多设备同步的加速需求。基础版每月 15 元提供 100GB 流量与 3 台设备，旗舰版每月 35 元升级至 300GB 和 IPLC 专线，团队版每月 85 元满足 20 台设备的高带宽场景。按年付可分别以 150 元、350 元、850 元锁定全年服务，适合个人到小型团队的日常使用。",
+          "AI_HERO_SUBTITLE": "多场景加速订阅选择",
+          "AI_HERO_INTRO": "YoozPanel 提供基础版、旗舰版与团队版三档加速套餐，覆盖流媒体观看、游戏加速与多设备同步等场景。按月或按年付费均可，套餐在流量、设备数量和节点品质上依次升级。",
+          "AI_VISUAL_TITLE": "灵活选套餐，稳定连全球",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "年付更省费用",
+          "AI_HIGHLIGHT_3": "IPLC 专线低延迟",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURES_INTRO": "从设备数量与月流量出发，匹配适合的订阅周期。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台，旗舰版 5 台，团队版最多 20 台设备同时在线。",
+          "AI_FEATURE_TITLE_2": "按流量规划周期",
+          "AI_FEATURE_TEXT_2": "每月 100GB 适合轻度浏览，300GB 兼顾流媒体，1000GB 满足团队共享。",
+          "AI_FEATURE_TITLE_3": "年付节省开支",
+          "AI_FEATURE_TEXT_3": "三档套餐按年付均为 10 个月价格，长期使用更划算。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "Windows、macOS、iOS、Android 及路由器各有对应客户端，按平台文档导入订阅即可使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版每月 15 元含 100GB 流量与 3 台设备；旗舰版每月 35 元含 300GB 流量、5 台设备与 IPLC 专线；团队版每月 85 元含 1000GB 流量与 20 台设备。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "选定套餐后，按设备类型完成订阅配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据月流量和设备数量，在基础版、旗舰版与团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备的系统版本与客户端支持情况，路由器用户需留意固件兼容性。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "参照对应客户端的文档导入订阅链接，完成后即可连接节点使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "套餐之间的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版侧重少量设备与轻度流量，旗舰版增加 IPLC 专线和流媒体解锁，团队版提供更高带宽与更多设备数。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版允许 3 台设备同时在线，旗舰版为 5 台，团队版可支持 20 台设备。超出数量时需先断开其他设备。",
+          "AI_FAQ_QUESTION_3": "年付价格如何计算？",
+          "AI_FAQ_ANSWER_3": "基础版年付 150 元，旗舰版年付 350 元，团队版年付 850 元，相当于按月付费的十个月价格。",
+          "AI_FAQ_QUESTION_4": "如何在不同客户端导入订阅？",
+          "AI_FAQ_ANSWER_4": "每个平台有对应的客户端，在客户端内找到订阅导入入口，粘贴订阅链接后更新节点列表即可。",
+          "AI_FAQ_QUESTION_5": "流量用完后怎么办？",
+          "AI_FAQ_ANSWER_5": "当月流量耗尽后可在账户内升级套餐或等待下个计费周期重置，具体可在购买页面查看当前用量。",
+          "AI_CLOSING_TITLE": "选对套餐，轻松连接",
+          "AI_CLOSING_TEXT": "根据设备数量与使用场景选择合适套餐，按年付享更优价格。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "shaowuai.cn",
+    "host": "shaowuai.cn"
+  },
+  "file_hashes": {
+    "index.html": "21014ceaa89f2bcb6a0095473ff95253d8418d6bf442712488e242a069d99c5c",
+    "sitemap.xml": "177a374dfc72e0abea1c58fb1f214bd0040ba184a3d72674b187c8bf361777e5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "961eb6678a5715b29cd009f24fd35ef7e1a2a863b24f6a74f8ea70f9c327d733",
+    "robots.txt": "280decd91976232232e6244fc6983478a73252c87d88109353be58bd286f946d",
+    "f432559638628f1a6d055a01292c0821.txt": "1a5fecf499180101d08ffde76b29ca4d23107809a4458629cf443a352e126ede"
+  },
+  "revision": "54eed7ec4fb780229ea05f97a71725892cae09e4cbeb3627d4d0b2e668268e3f"
+}
